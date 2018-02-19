@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/vijay-karajgikar/chimart#readme",
   "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
     "body-parser": "^1.18.2",
     "express": "^4.16.2",
     "mongoose": "^5.0.6"
